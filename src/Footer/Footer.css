@@ -1,0 +1,11 @@
+footer{
+    background-color: rgb(134, 201, 35);
+    height:80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-style: italic;
+    position: sticky;
+    bottom: 0;
+}

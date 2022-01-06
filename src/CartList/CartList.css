@@ -1,0 +1,19 @@
+.cart-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(152, 247, 9);
+    padding:10px;
+}
+.cart-img{
+    width: 150px;
+    
+}
+.cart-list div{
+    /* align-self: center; */
+}

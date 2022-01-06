@@ -1,0 +1,20 @@
+header{
+    display: flex;
+    background-color: yellowgreen;
+    height:80px;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    
+}
+.brand,.link{
+    text-decoration: none;
+}
+.brand{
+    font-size:30px;
+    text-shadow: 1px 1px 5px blueviolet;
+}
+.link{
+    padding:0 20px;
+}
